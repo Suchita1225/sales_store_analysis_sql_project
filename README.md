@@ -8,5 +8,6 @@ which products sell the most,
 customers preference,
 which items bring in the most profit,and
 where things are going wrong indelivery or operations. Because of this, they aremissing chances to earnmore, losing customers, andmaking poor businessdecisions.
+
 Solution
 They need proper reports and simpleinsights to understand their sales,customers, and product performance better.
